@@ -25,7 +25,13 @@ For this project, I am using Seattle Airbnb Open Data from kaggle to better unde
 The notebook available here showcases work related to the above questions.
 
 ### Results
-The main findings of the code can be found at the post available here.
+
+- Based on the finding above, we found out that the top 3 popular months for airbnb in Seattle are August, September then July, which indicates that late summer and early fall is the most popular season. 
+- Also, July, August and June have the top 3 highest listing price, which meets the popular season.
+- Using the linear model we built, listing price is mainly associated with the location and room type.
+- More findings can be found at the post.
+
 
 ### Licensing, Authors, Acknowledgements
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
+This work is licensed under [CC0: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
+Must give credit to Airbnb for the data. The data can be found on Kaggle or [here](https://www.kaggle.com/airbnb/seattle).
