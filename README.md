@@ -29,7 +29,7 @@ The notebook available here shows the work related to the above questions.
 - Based on the finding above, we found out that the top 3 popular months for airbnb in Seattle are August, September then July, which indicates that late summer and early fall is the most popular season. 
 - Also, July, August and June have the top 3 highest listing price, which meets the popular season.
 - Using the linear model we built, listing price is mainly associated with the location and room type.
-- More findings can be found at the post.
+- More findings can be found at the [post](https://medium.com/@tim962958/what-can-we-learn-from-the-seattle-airbnb-data-c62c8b933194).
 
 
 ### Licensing, Authors, Acknowledgements
