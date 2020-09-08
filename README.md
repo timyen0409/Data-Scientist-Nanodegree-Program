@@ -22,7 +22,7 @@ For this project, I am using Seattle Airbnb Open Data from kaggle to better unde
   3.What are the attributes associated with the price?
 
 ### File Descriptions
-The notebook available here showcases work related to the above questions.
+The notebook available here shows the work related to the above questions.
 
 ### Results
 
