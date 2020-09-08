@@ -17,9 +17,9 @@ Udacity Data Scientist Nanodegree Program
 ### Project Motivation
 For this project, I am using Seattle Airbnb Open Data from kaggle to better understand:
 
-  1.What is the most popular month for rentals in Seattle?
-  2.What is the highest/lowest month for listing in Seattle?
-  3.What are the attributes associated with the price?
+  - 1.What is the most popular month for rentals in Seattle?
+  - 2.What is the highest/lowest month for listing in Seattle?
+  - 3.What are the attributes associated with the price?
 
 ### File Descriptions
 The notebook available here shows the work related to the above questions.
