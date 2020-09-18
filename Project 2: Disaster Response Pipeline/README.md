@@ -16,7 +16,7 @@ First, we build the ETL pipeline and store the data into the database. Second, w
 
 Last, we deploy the model at the web application,so that we can classify the messages from the web.
 
-###File Description
+### File Description
 
 app/run.py: Launch the web app.
 data/process_data.py: Execute the ETL Pipeline and generate a database with clean data.
@@ -32,10 +32,10 @@ models/train_classifier.py: Load data from SQLite database. And stores the final
   <div class="bg-gray">python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db</div>
   - To run ML pipeline that trains classifier and saves the model:
   <div class="bg-gray">python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl</div>
-2. To start your web app. 
+2.To start your web app. 
   <div class="bg-gray">python run.py</div>
 
-3. Go to [http://0.0.0.0:3001/](http://0.0.0.0:3001/)
+3.Go to [http://0.0.0.0:3001/](http://0.0.0.0:3001/)
 
 ### Acknowledge
 Most credits to Udacity to the data and web application templates. The project focus on full pipelines about the ETL and the machine learning.
