@@ -28,10 +28,10 @@ models/train_classifier.py: Load data from SQLite database. And stores the final
 
 1. Run the following commands to set up database and model.
 
-  - To run ETL pipeline that cleans data and stores in database:<div class="bg-gray">python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db</div>
+  - To run ETL pipeline that cleans data and stores in database:<pre><code>python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db</code></pre>
   
-  - To run ML pipeline that trains classifier and saves the model:<div class="bg-gray">python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl</div>
-  - To start your web app.<div class="bg-gray">python run.py</div>
+  - To run ML pipeline that trains classifier and saves the model:<pre><code>python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl</code></pre>
+  - To start your web app.<pre><code>python run.py</code></pre>
 
 2. Go to [http://0.0.0.0:3001/](http://0.0.0.0:3001/)
 
